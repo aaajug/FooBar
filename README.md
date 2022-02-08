@@ -7,7 +7,7 @@
 # Files
 - main.rb: contains final answer for the given problem
 - alternatives.rb: contains alternative solutions (different approach)
-- `FooBar/` : web + javascript implementation for testing in browser (TO DO: Add GH page link) 
+- `FooBar/` : web + javascript implementation for testing in browser (https://aaajug.github.io/FooBar/) 
 
 # Problem
 Write a function called FooBar that takes input integer n and prints all the numbers from 1 up to n in a new line. If the number is divisible by 3, then print "Foo"; if the number is divisible by 5, then print "Bar"; and if the number is divisible by both 3 and 5, then print "FooBar". Otherwise, just print the number.
